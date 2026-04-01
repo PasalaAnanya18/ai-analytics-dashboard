@@ -17,3 +17,5 @@ A modern, interactive analytics dashboard built using React and TypeScript.
 - Recharts
 - Vite
 
+## Demo Link
+https://ai-analytics-dashboard-nu.vercel.app/
