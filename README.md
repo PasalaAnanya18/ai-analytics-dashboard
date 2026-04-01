@@ -1,8 +1,8 @@
-#Analytics Dashboard
+## Analytics Dashboard
 
 A modern, interactive analytics dashboard built using React and TypeScript.
 
-#Features
+## Features
 
 - Add and remove widgets dynamically
 - Line and Bar charts using Recharts
@@ -10,7 +10,7 @@ A modern, interactive analytics dashboard built using React and TypeScript.
 - Clean and responsive UI
 - Empty state handling
 
-#Tech Stack
+## Tech Stack
 
 - React
 - TypeScript
